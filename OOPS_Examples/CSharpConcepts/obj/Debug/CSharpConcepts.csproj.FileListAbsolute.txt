@@ -1,0 +1,7 @@
+D:\Training\Git Projects\incubator\OOPS_Examples\CSharpConcepts\obj\Debug\CSharpConcepts.csproj.CoreCompileInputs.cache
+D:\Training\Git Projects\incubator\OOPS_Examples\CSharpConcepts\bin\Debug\CSharpConcepts.exe.config
+D:\Training\Git Projects\incubator\OOPS_Examples\CSharpConcepts\bin\Debug\CSharpConcepts.exe
+D:\Training\Git Projects\incubator\OOPS_Examples\CSharpConcepts\bin\Debug\CSharpConcepts.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\CSharpConcepts\obj\Debug\CSharpConcepts.exe
+D:\Training\Git Projects\incubator\OOPS_Examples\CSharpConcepts\obj\Debug\CSharpConcepts.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\CSharpConcepts\obj\Debug\CSharpConcepts.csproj.AssemblyReference.cache

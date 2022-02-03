@@ -1,0 +1,10 @@
+D:\Training\Git Projects\incubator\OOPS_Examples\AssemblyExample\bin\Debug\AssemblyExample.exe.config
+D:\Training\Git Projects\incubator\OOPS_Examples\AssemblyExample\bin\Debug\AssemblyExample.exe
+D:\Training\Git Projects\incubator\OOPS_Examples\AssemblyExample\bin\Debug\AssemblyExample.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\AssemblyExample\bin\Debug\DLLExample.dll
+D:\Training\Git Projects\incubator\OOPS_Examples\AssemblyExample\bin\Debug\DLLExample.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\AssemblyExample\obj\Debug\AssemblyExample.csproj.AssemblyReference.cache
+D:\Training\Git Projects\incubator\OOPS_Examples\AssemblyExample\obj\Debug\AssemblyExample.csproj.CoreCompileInputs.cache
+D:\Training\Git Projects\incubator\OOPS_Examples\AssemblyExample\obj\Debug\AssemblyExample.csproj.CopyComplete
+D:\Training\Git Projects\incubator\OOPS_Examples\AssemblyExample\obj\Debug\AssemblyExample.exe
+D:\Training\Git Projects\incubator\OOPS_Examples\AssemblyExample\obj\Debug\AssemblyExample.pdb

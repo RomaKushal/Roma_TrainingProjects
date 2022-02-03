@@ -1,0 +1,7 @@
+D:\Training\Git Projects\incubator\OOPS_Examples\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe.config
+D:\Training\Git Projects\incubator\OOPS_Examples\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.exe
+D:\Training\Git Projects\incubator\OOPS_Examples\AbstractClassAssignment\bin\Debug\AbstractClassAssignment.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.AssemblyReference.cache
+D:\Training\Git Projects\incubator\OOPS_Examples\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.csproj.CoreCompileInputs.cache
+D:\Training\Git Projects\incubator\OOPS_Examples\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.exe
+D:\Training\Git Projects\incubator\OOPS_Examples\AbstractClassAssignment\obj\Debug\AbstractClassAssignment.pdb

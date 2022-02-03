@@ -1,0 +1,7 @@
+D:\Training\Git Projects\incubator\OOPS_Examples\FinalizeDispose\bin\Debug\FinalizeDispose.exe.config
+D:\Training\Git Projects\incubator\OOPS_Examples\FinalizeDispose\bin\Debug\FinalizeDispose.exe
+D:\Training\Git Projects\incubator\OOPS_Examples\FinalizeDispose\bin\Debug\FinalizeDispose.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\FinalizeDispose\obj\Debug\FinalizeDispose.csproj.CoreCompileInputs.cache
+D:\Training\Git Projects\incubator\OOPS_Examples\FinalizeDispose\obj\Debug\FinalizeDispose.exe
+D:\Training\Git Projects\incubator\OOPS_Examples\FinalizeDispose\obj\Debug\FinalizeDispose.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\FinalizeDispose\obj\Debug\FinalizeDispose.csproj.AssemblyReference.cache

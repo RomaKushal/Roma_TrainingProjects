@@ -1,0 +1,11 @@
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\bin\Debug\net5.0\MyDLL.deps.json
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\bin\Debug\net5.0\MyDLL.dll
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\bin\Debug\net5.0\ref\MyDLL.dll
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\bin\Debug\net5.0\MyDLL.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\obj\Debug\net5.0\MyDLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\obj\Debug\net5.0\MyDLL.AssemblyInfoInputs.cache
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\obj\Debug\net5.0\MyDLL.AssemblyInfo.cs
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\obj\Debug\net5.0\MyDLL.csproj.CoreCompileInputs.cache
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\obj\Debug\net5.0\MyDLL.dll
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\obj\Debug\net5.0\ref\MyDLL.dll
+D:\Training\Git Projects\incubator\OOPS_Examples\MyDLL\obj\Debug\net5.0\MyDLL.pdb

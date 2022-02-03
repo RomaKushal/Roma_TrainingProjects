@@ -1,0 +1,13 @@
+D:\Training\Projects\OOPS_Examples\PassByValRef\bin\Debug\PassByValRef.exe.config
+D:\Training\Projects\OOPS_Examples\PassByValRef\bin\Debug\PassByValRef.exe
+D:\Training\Projects\OOPS_Examples\PassByValRef\bin\Debug\PassByValRef.pdb
+D:\Training\Projects\OOPS_Examples\PassByValRef\obj\Debug\PassByValRef.csproj.CoreCompileInputs.cache
+D:\Training\Projects\OOPS_Examples\PassByValRef\obj\Debug\PassByValRef.exe
+D:\Training\Projects\OOPS_Examples\PassByValRef\obj\Debug\PassByValRef.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\PassByValRef\bin\Debug\PassByValRef.exe.config
+D:\Training\Git Projects\incubator\OOPS_Examples\PassByValRef\bin\Debug\PassByValRef.exe
+D:\Training\Git Projects\incubator\OOPS_Examples\PassByValRef\bin\Debug\PassByValRef.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\PassByValRef\obj\Debug\PassByValRef.csproj.CoreCompileInputs.cache
+D:\Training\Git Projects\incubator\OOPS_Examples\PassByValRef\obj\Debug\PassByValRef.exe
+D:\Training\Git Projects\incubator\OOPS_Examples\PassByValRef\obj\Debug\PassByValRef.pdb
+D:\Training\Git Projects\incubator\OOPS_Examples\PassByValRef\obj\Debug\PassByValRef.csproj.AssemblyReference.cache
