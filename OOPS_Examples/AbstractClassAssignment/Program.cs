@@ -4,7 +4,7 @@ namespace AbstractClassAssignment
 {
     class Program
     {
-        // main method
+        // main method program
         static void Main(string[] args)
         {
             Rectangle rect = new Rectangle(50);
