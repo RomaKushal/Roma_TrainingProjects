@@ -1,0 +1,45 @@
+﻿.login-box, .register-box {
+    margin: 22% auto;
+}
+
+.login {
+    margin: 12% auto;
+}
+
+.login-logo,
+.register-logo {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 25px;
+    font-weight: 300;
+}
+
+    .login-logo a,
+    .register-logo a {
+        color: #444
+    }
+
+.login-page,
+.register-page {
+    background: #d2d6de
+}
+
+.login-box-body, .register-box-body {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+.login-box-body, .register-box-body {
+    background: #fff;
+    padding: 20px;
+    border-top: 0;
+    color: #666;
+}
+
+.form-group {
+    margin-right: 1%;
+}
+
+.has-feedback {
+    position: relative;
+}
+
