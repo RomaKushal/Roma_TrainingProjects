@@ -1,0 +1,14 @@
+[
+  {
+    "outputFileName": "JS/Login.min.js",
+    "inputFiles": [
+      "JS/Login.js"
+    ]
+  },
+  {
+    "outputFileName": "JS/Registration.min.js",
+    "inputFiles": [
+      "JS/Registration.js"
+    ]
+  }
+]

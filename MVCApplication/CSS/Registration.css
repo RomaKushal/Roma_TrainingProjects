@@ -1,0 +1,79 @@
+﻿#top_part {
+    /* height: 69px; */
+    background-color: #252525;
+    text-align: right;
+    line-height: 69px;
+    color: #efefef;
+}
+
+.icon-logo {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+h2 {
+    color: #f47619;
+    font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 30px;
+    margin-bottom: 12px;
+}
+
+.login-box, .register-box {
+    width: 500px;
+    margin: 7% auto;
+}
+
+.login {
+    margin: 5% auto;
+}
+
+.form-group {
+    margin-right: 1%;
+}
+
+.has-feedback {
+    position: relative;
+}
+
+.input-container {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.icon {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+}
+
+.input-field {
+    width: 100%;
+    padding: 10px;
+    outline: none;
+}
+
+    .input-field:focus {
+        border: 2px solid dodgerblue;
+    }
+
+/* Set a style for the submit button */
+.btn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    opacity: 0.9;
+}
+
+    .btn:hover {
+        opacity: 1;
+    }
+
