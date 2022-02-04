@@ -1,0 +1,6 @@
+D:\Training\Git Projects\incubator\UnitTestExample\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Training\Git Projects\incubator\UnitTestExample\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Training\Git Projects\incubator\UnitTestExample\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Training\Git Projects\incubator\UnitTestExample\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Training\Git Projects\incubator\UnitTestExample\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Training\Git Projects\incubator\UnitTestExample\HelloWorld\obj\Debug\HelloWorld.pdb

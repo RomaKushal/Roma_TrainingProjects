@@ -1,0 +1,17 @@
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\HelloWorld.exe
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\HelloWorld.pdb
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\HelloWorld.exe.config
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.AssemblyReference.cache
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\Training\Git Projects\incubator\UnitTestExample\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
